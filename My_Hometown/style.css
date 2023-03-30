@@ -1,0 +1,165 @@
+
+body {
+    margin: 0px;
+}
+
+div {
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 0px;
+    
+}
+
+.section-one{
+    height: 800px;
+    background-color: aqua;
+    margin: auto auto;
+    background-image: url(images/city.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#top-block {
+    width: 400px;
+    height: 120px;
+    background-color: lightblue;
+    padding: 0px;
+    margin: 10px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+#dnw-block {
+    width: 700px;
+    height: 100px;
+    background-color: rgb(91, 91, 216);
+    padding: 0px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.section-second{
+    width: 100%;
+    height: 700px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.section-three{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#two-titl {
+    margin: auto auto;
+    color: black;
+    
+}
+
+
+.two-part {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: start;
+    margin: 20px auto;
+}
+
+.sub-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#one-card {
+    background-image: url(images/fort.jpg);
+    background-size: cover;
+    border: 4px solid rgb(117, 231, 231);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px;
+}
+
+#second-card {
+    background-image: url(images/birds.jpg);
+    background-size: cover;
+    border: 4px solid rgb(117, 231, 231);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px;
+}
+
+#third-card {
+    
+    background-image: url(images/Beach.jpg);
+    background-size: cover;
+    border: 4px solid rgb(117, 231, 231);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px;
+    
+}
+
+.section-three {
+    width: 700px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: lightpink;
+    color: #2b2839;
+    border-bottom: 6px solid rgb(230, 118, 135);
+    border-radius: 10px;
+        
+}
+
+.avatar {
+    width: 300px;
+    height: 350px;
+    margin: 10px 20px ;
+    border: 2px solid white;
+    border-radius: 10%;
+}
+
+#lst-tex{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    padding: 10px;
+    color: rgb(119, 95, 95);
+    
+}
+
+h3 {
+    margin: -10px 0px 0px 0px;
+}
+
+#sub-card {
+    color: black;
+    font-size: 30px;
+}
+
+#tex-p {
+    width: 300px;
+    height: 80px;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    margin: auto auto;
+}
